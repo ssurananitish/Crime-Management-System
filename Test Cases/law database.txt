@@ -1,0 +1,48 @@
+create table Laws (name varchar2(500) primary key,r_date number(5), code number(5),definition varchar2(1000),punishment varchar2(1000),place varchar2(500));
+
+insert into Laws values('Coinage Act, 2011',2011,11,'In this Act, coin means any coin which is made of any metal or any other material stamped by the Government or any other authority empowered by the Government in this behalf and which is a legal tender including commemorative coin and Government of India one rupee note.','Whoever is found to be in possession of any metal or material which contains alloys in the same proportions in which they have been used in the  manufacture of any coin shall be presumed, until the contrary is proved, to have contravened the provisions of sub-section','Whole of India');
+
+insert into Laws values('Orissa (Alteration of Name) Act, 2011',2011,15,'An Act to alter the name of the State of Orissa.','None','State of Orissa');
+
+insert into Laws values('Factoring Regulation Act, 2011',2012,12,'Section 2(j) of the Act defines the term factoring business as the business of acquisition of receivables of assignor by accepting assignment of such receivables or financing, whether by way of making loans or advances or otherwise against the security interest over any receivables but does not include- Credit facilities provided by a bank in its ordinary course of business against security of receivables; Any activity as commission agent or otherwise for sale of agricultural produce or goods of any kind whatsoever or any activity relating to the production, storage, supply, distribution, acquisition or control of such produce or goods or provision of any services.','If any factor fails to comply with any direction of RBI the RBI may impose a penalty which may extend to ? 5 lakhs and in the case of a continuing offence, with an additional fine which may extend to ? 10,000/- for every day during which the default continues.','Whole of India');
+
+insert into Laws values('Academy of Scientific and Innovative Research Act, 2011',2012,13,'An act to establish an Academy for furtherance of the advancement of learning and prosecution of research in the field of science and technology in association with Council of Scientific and Industrial Research and to declare the institution known as the Academy of Scientific and Innovative Research, to be an institution of national importance to provide for its incorporation and matters connected therewith or incidental thereto.','None','Whole of India Except Jammu and Kashmir');
+
+insert into Laws values('Protection of Children from Sexual Offences Act, 2012',2012,32,'It deals with sexual offences against persons below 18 years of age, who are deemed as children. The Act for the first time, defines “penetrative sexual assault”, “sexual assault” and “sexual harassment”. The offence is considered graver if it is committed by a police officer, public servant, any member of the staff at a remand home, protection or observation home, jail, hospital or educational institution, or by a member of the armed or security forces.','Whoever commits aggravated penetrative sexual assault, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life and shall also be liable to fine.','Adults present in Whole of India');
+
+insert into Laws values('Rajiv Gandhi National Institute of Youth Development Act, 2012',2012,35,'It offers academic programmes at postgraduate level in youth development, engages in research in youth development, and coordinates training programmes for state agencies and the officials of youth organisations. It is involved in extension and outreach initiatives across the country.','None','Southern Part of India');
+
+insert into Laws values('National Institute of Mental Health and Neurosciences, Bangalore Act, 2012',2012,38,'It is an act of the Parliament of India to give the status of Institute of National Importance to National Institute of Mental Health and Neurosciences, Bangalore. The Bill establishes NIMHANS as a more autonomous. NIMHANS is the fourth medical institute in the country to get this status after All India Institute of Medical Sciences, Postgraduate Institute of Medical Education and Research and Jawaharlal Institute of Postgraduate Medical Education and Research.','None','Bangalore');
+
+insert into Laws values('Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013',2013,14,'An Act to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints of sexual harassment and for matters connected therewith or incidental thereto.','Penalties range from Rigorous imprisonment up to three years, and/or a fine.','Working Women All over Country.');
+
+insert into Laws values('Companies Act 2013',2011,15,'It is an Act of the Parliament of India on Indian company law which regulates incorporation of a company, responsibilities of a company, directors, dissolution of a company.','If on request of member, company has not provided them a copy of Memorandum, Articles every agreement and every resolution then 1 thousand rupees for each day during which such default continues or 1 lakh rupees.','Companies All over the country');
+
+insert into Laws values('National Food Security Act, 2013',2013,20,'The objective of this Act is to provide for food and nutritional security in human life cycle approach, by ensuring access to adequate quantity of quality food at affordable prices to people to live a life with dignity','Any public servant or authority found guilty, by the State Commission at the time of deciding any complaint or appeal, of failing to provide the relief recommended by the District Grievance Redressal Officer, without reasonable cause, or wilfully ignoring such recommendation, shall be liable to penalty not exceeding five thousand rupees. Provided that the public servant or the public authority, as the case may be, shall be given a reasonable opportunity of being heard before any penalty is imposed.','State and Union Territories of India');
+
+
+
+
+National Pension Scheme	2013	23
+Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013	2013	25
+Rajiv Gandhi National Aviation University Act, 2013	2013	26
+Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013	2013	30
+Lokpal and Lokayuktas Act, 2013	2014	1
+Andhra Pradesh Reorganisation Act, 2014	2014	6
+Street Vendors Act, 2014	2014	7
+Rani Lakshmi Bai Central Agricultural University Act, 2014	2014	10
+Narcotic Drugs and Psychotropic Substances (Amendment) Act, 2014	2014	16
+Securities Laws (Amendment) Act, 2014	2014	27
+Whistle Blowers Protection Act, 2011	2014	17
+Citizenship (Amendment) Bill, 2015	2015	36
+Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015	2015	22
+Insolvency and Bankruptcy Code, 2016	2016	31
+Rights of Persons with Disabilities Act, 2016	2016	49
+Mental Healthcare Act, 2017	2017	10
+Central Goods and Services Tax Act, 2017[11]	2017	12
+Integrated Goods and Services Tax Act, 2017[12]	2017	13
+Union Territory Goods and Services Tax Act, 2017[13]	2017	14
+Goods and Services Tax (Compensation to States) Act, 2017	2017	15
+Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome (Prevention and Control) Act, 2017	2017	16
+Central Goods and Services Tax (Extension to Jammu and Kashmir) Act, 2017	2017	26
+Integrated Goods and Services Tax (Extension to Jammu and Kashmir) Act, 2017	2017	27
